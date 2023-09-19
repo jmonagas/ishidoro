@@ -2,11 +2,12 @@
    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
    "editor.defaultColorDecorators": true,
    "editor.guides.bracketPairs": true,
-   "editor.formatOnPaste": true,
+   "editor.formatOnPaste": false,
    "editor.tabSize": 3,
    "files.autoSave": "afterDelay",
    "editor.fontSize": 17,
    "editor.wordWrap": "on",
    "terminal.integrated.fontSize": 17,
-   "terminal.integrated.fontFamily": "Consolas"
+   "terminal.integrated.fontFamily": "Consolas",
+   "editor.formatOnSave": false
 }
