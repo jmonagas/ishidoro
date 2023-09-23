@@ -2,7 +2,7 @@
    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
    "editor.defaultColorDecorators": true,
    "editor.guides.bracketPairs": true,
-   "editor.formatOnPaste": false,
+   "editor.formatOnPaste": true,
    "editor.tabSize": 3,
    "files.autoSave": "afterDelay",
    "editor.fontSize": 17,
