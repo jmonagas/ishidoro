@@ -29,9 +29,11 @@
 		"editorLineNumber.activeForeground": "#ffee00",
 		"editor.findMatchBorder": "#ffee00",
 		"editorIndentGuide.background1": "#868686",
+		"scrollbarSlider.background": "#ff0000",
+		"scrollbarSlider.hoverBackground": "#00a508"
 	},
 	"editor.tabCompletion": "on",
-	"editor.tabSize": 4,
+	"editor.tabSize": 2,
 	"emmet.triggerExpansionOnTab": true,
 	"workbench.editor.highlightModifiedTabs": true,
 	"workbench.editor.wrapTabs": true,
@@ -44,7 +46,7 @@
 	"html.format.wrapLineLength": 150,
 	"diffEditor.ignoreTrimWhitespace": true,
 	"html.format.templating": true,
-	"html.format.wrapAttributesIndentSize": 4,
+	"html.format.wrapAttributesIndentSize": 2,
 	"zenMode.hideTabs": false,
 	"editor.defaultColorDecorators": true
 }
